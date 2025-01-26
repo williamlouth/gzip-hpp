@@ -7,6 +7,7 @@
 #include <limits>
 #include <stdexcept>
 #include <string>
+#include <cstdint>
 
 namespace gzip {
 
